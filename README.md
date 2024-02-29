@@ -24,6 +24,6 @@ PassportJS - authentication middleware for Node.js. Extremely flexible and modul
 
 Data Associations - associating user data with the respective campgrounds and comments using reference method
 
-#Acknowledgements
+# Acknowledgements
 
 [Colt Steel's course](https://github.com/3ein39/YelpCamp#:~:text=Acknowledgements-,Colt%20Steel%27s%20course,-About)
