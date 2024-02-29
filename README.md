@@ -23,3 +23,7 @@ MongoDB - open-source cross-platform document-oriented NoSQL database program to
 PassportJS - authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application
 
 Data Associations - associating user data with the respective campgrounds and comments using reference method
+
+#Acknowledgements
+
+[Colt Steel's course](https://github.com/3ein39/YelpCamp#:~:text=Acknowledgements-,Colt%20Steel%27s%20course,-About)
