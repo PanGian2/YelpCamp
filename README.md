@@ -26,4 +26,4 @@ Data Associations - associating user data with the respective campgrounds and co
 
 # Acknowledgements
 
-[Colt Steel's course](https://github.com/3ein39/YelpCamp#:~:text=Acknowledgements-,Colt%20Steel%27s%20course,-About)
+[Colt Steel's course](https://www.udemy.com/course/the-web-developer-bootcamp/)
