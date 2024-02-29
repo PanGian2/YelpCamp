@@ -9,7 +9,6 @@ CSS3 - used for describing the presentation of a document written in a markup la
 
 Bootstrap - free and open-source front-end web framework for designing websites and web applications quickly
 
-jQuery - cross-platform JavaScript library designed to simplify the client-side scripting of HTML
 
 DOM Manipulation - is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document
 
